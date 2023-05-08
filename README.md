@@ -46,7 +46,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,c#,dart,flutter,maven,solidity,cpp,css,discord,docker,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,threejs,nodejs,postman,py,react,redux,tailwind,ts,vscode,arduino&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=git,c,c#,dart,flutter,maven,solidity,cpp,css,discord,docker,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,threejs,nodejs,postman,py,react,redux,tailwind,ts,vscode,arduino&perline=10"/>
   </a>
 </p>
 
