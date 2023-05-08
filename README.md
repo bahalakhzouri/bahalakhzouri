@@ -17,12 +17,20 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+<h1 align="center">🌐Socials</h1>
+<br>
+<h2 style="display: inline-block">Do not hesitate to contact me 🤝</h2>
 
-
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bahaeddinelakhzouri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/baha_lakhzouri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahaeddine-lakhzouri-748004276/) 
+ 
+ 
+ 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Why did the drummer become a programmer?<br>
+Because he wanted to make some great beats and not just drum loops! 🥁💻</h2></summary>
   </ul>
 </div>
 
@@ -32,7 +40,7 @@
 
 - ☁️ I've keen interest in blockchain development. So,I'm learning **Solidity and Hardhat**
 
-- 💬 Ask me about **nodejs, mongoDB, Kotlin, Java, Swift, **
+- 💬 Ask me about **nodejs, mongoDB, Kotlin, Java, Swift**
 
 - 📫 Feel free to reach me out **bahaeddinelakhzouri@gmail.com**
 
@@ -55,14 +63,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-    ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bahaeddinelakhzouri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/baha_lakhzouri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahaeddine-lakhzouri-748004276/) 
-  </ul>
-</div>
-  
+  - 🥁 You can also talk with me about **Drums ❤️.** 🥁
 </p>
 
 <!--horizontal divider(gradiant)-->
